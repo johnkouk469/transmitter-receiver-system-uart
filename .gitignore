@@ -1,0 +1,16 @@
+# Simulator output and build products
+*.vcd
+*.wlf
+*.vvp
+a.out
+work/
+transcript
+*.mpf
+*.cr.mti
+vsim.wlf
+modelsim.ini
+build/
+
+# Backups
+*.bak
+*~
